@@ -1,4 +1,4 @@
-package com.example.practica5procesos;
+package com.example.practica5procesos.model;
 
 public class CustomDate {
     private int day;
