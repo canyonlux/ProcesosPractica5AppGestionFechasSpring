@@ -1,4 +1,6 @@
-package com.example.practica5procesos;
+package com.example.practica5procesos.observer;
+
+import com.example.practica5procesos.observer.Observer;
 
 import java.io.*;
 import java.net.HttpURLConnection;

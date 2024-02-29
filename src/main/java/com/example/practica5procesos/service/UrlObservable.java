@@ -1,6 +1,6 @@
 package com.example.practica5procesos.service;
 
-import com.example.practica5procesos.Observer;
+import com.example.practica5procesos.observer.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

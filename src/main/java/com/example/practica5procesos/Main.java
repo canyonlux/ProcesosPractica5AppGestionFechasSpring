@@ -1,5 +1,6 @@
 package com.example.practica5procesos;
 
+import com.example.practica5procesos.observer.Observador;
 import com.example.practica5procesos.service.UrlObservable;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

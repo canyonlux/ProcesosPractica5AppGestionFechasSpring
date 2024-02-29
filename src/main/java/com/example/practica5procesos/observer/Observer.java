@@ -1,4 +1,4 @@
-package com.example.practica5procesos;
+package com.example.practica5procesos.observer;
 
 /**
  * La interfaz Observer define el método de notificación que deben implementar los observadores.
